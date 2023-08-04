@@ -22,14 +22,6 @@ let boston
 let newyork
 let california
 let notification
-let mail
-let calendaer
-let setting
-let overview
-let documents
-let check
-let search
-let filter
 
 
 
