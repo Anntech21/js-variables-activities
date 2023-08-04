@@ -60,19 +60,21 @@ let b = "catie";
 
 // Swap the values of a and b. You may use a third variable to hold a value so you don't overwrite it. Use reassignment—don't change the previous lines of code!
 a = b;
-let c = b;
+let c = a;
 b = c;
 
 
 // Log the values of a and b before and after the swap.
-
-console.log ("colin and catie");
-console.log ("catie and colin");
+//log before
+console.log ("a");//colin
+console.log ("b");//catie
+//log after
+console.log('Lets Swap! ' + a + ', use to be colin and catie is now ' + b +'.' )//catie use to be colin and catie is now colin
 
 
 
 /************************ Exercise 4 - Working with Constants ************************/
-
+.
 // Declare a constant variable named PI and set its value to 3.14159. 
 const PI = 3.14159
 
