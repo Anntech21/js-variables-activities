@@ -1,0 +1,6 @@
+Exercise 2
+When you are accessing the value of a variable, be sure to not include the quotation marks. This will tell the browser it is a string and not a variable.
+
+Exercise 3
+Did you get the correct items to display in the console? Remember, you can't use quotation marks for variables. Also, what will be the value of c?
+
