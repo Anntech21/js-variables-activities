@@ -75,3 +75,9 @@ PI = 5245
 
 // Observe the error in the console and write a comment here explaining why you can't reassign a constant.
 constant is permantant and can not change value
+
+
+let text ='Hello';
+console.log(text[5]);
+
+
